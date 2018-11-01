@@ -24,6 +24,7 @@
         <module>service-hi</module>
         <module>service-hi-hystrix-dashboard</module>
         <module>service-hi-hystrix-turbine</module>
+        <module>service-turbine</module>
         <module>service-ribbon</module>
         <module>service-feign</module>
         <module>service-ribbon-hystrix</module>
