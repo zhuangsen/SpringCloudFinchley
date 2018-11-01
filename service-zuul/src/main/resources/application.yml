@@ -1,12 +1,13 @@
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
 server:
   port: 8768
-spring:
-  application:
-    name: service-zuul
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:8761/eureka/
+
 zuul:
   routes:
     api-a:
@@ -15,3 +16,9 @@ zuul:
     api-b:
       path: /api-b/**
       serviceId: service-feign
+
+spring:
+  application:
+    name: service-zuul
+  main:
+    allow-bean-definition-overriding: true

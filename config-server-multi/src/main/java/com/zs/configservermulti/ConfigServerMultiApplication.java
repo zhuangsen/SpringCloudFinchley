@@ -7,9 +7,9 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @SpringBootApplication
-@EnableConfigServer
+@EnableConfigServer//开启配置服务器的支持
 @EnableDiscoveryClient
-@EnableEurekaClient
+@EnableEurekaClient//开启 Eureka 客户端的支持
 public class ConfigServerMultiApplication {
 
 	public static void main(String[] args) {
