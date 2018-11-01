@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudFinchley.iml" filepath="$PROJECT_DIR$/SpringCloudFinchley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client-multi/config-client-multi.iml" filepath="$PROJECT_DIR$/config-client-multi/config-client-multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client-rabbitmq/config-client-rabbitmq.iml" filepath="$PROJECT_DIR$/config-client-rabbitmq/config-client-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-eureka-server/config-eureka-server.iml" filepath="$PROJECT_DIR$/config-eureka-server/config-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-multi/config-server-multi.iml" filepath="$PROJECT_DIR$/config-server-multi/config-server-multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-feign-hystrix/service-feign-hystrix.iml" filepath="$PROJECT_DIR$/service-feign-hystrix/service-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi-hystrix-dashboard/service-hi-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/service-hi-hystrix-dashboard/service-hi-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi-hystrix-turbine/service-hi-hystrix-turbine.iml" filepath="$PROJECT_DIR$/service-hi-hystrix-turbine/service-hi-hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon-hystrix/service-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/service-ribbon-hystrix/service-ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zipkin/service-zipkin.iml" filepath="$PROJECT_DIR$/service-zipkin/service-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zipkin-hi/service-zipkin-hi.iml" filepath="$PROJECT_DIR$/service-zipkin-hi/service-zipkin-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zipkin-miya/service-zipkin-miya.iml" filepath="$PROJECT_DIR$/service-zipkin-miya/service-zipkin-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
+    </modules>
+  </component>
+</project>
